@@ -1,2 +1,2 @@
 # C++
-for learning in academy IT_Step
+for learning at academy IT_Step
